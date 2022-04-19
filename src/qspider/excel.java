@@ -2,7 +2,7 @@ package qspider;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import org.apache.
+
 
 public class excel {
 
@@ -11,7 +11,7 @@ public class excel {
 
 		FileInputStream fis=new FileInputStream("");
 		
-		Workbook wb=WorkbookFactory.
+		//Workbook wb=WorkbookFactory.
 	}
 
 }
