@@ -79,9 +79,10 @@ public class demo
 		
 		String input="java allow";
 		
-		int cnt=StringUtils.countMatches(input,'a');
+		String output="yes";
+		//int cnt=StringUtils.countMatches(input,'a');
 		
-		System.out.print(cnt);
+		System.out.print(input+output);
 		
 		
 		
